@@ -2134,3 +2134,16 @@ SIZE     : 2125
 CAPACITY : 7428242
 TIME (s) : 20.587
 -------------------
+
+if __name__ == '__main__':
+
+    data = open('solution.txt', 'r')
+
+    profit, weight = 0, 0
+    for row in data.readlines():
+        p, w = eval(row.replace(' ', ', '))
+        profit += p
+        weight += w
+
+    print('PROFIT : {}'.format(profit))
+    print('WEIGHT : {}'.format(weight))
