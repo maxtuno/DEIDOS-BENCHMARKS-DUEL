@@ -9,3 +9,6 @@ https://youtu.be/NiFbA_3zUlA
 
 DEIDOS BENCHMARKS DUEL 101
 https://youtu.be/ygnU7f1C9_Y
+
+SUBSET SUM PROBLEM (Short Video)
+https://twitter.com/maxtuno/status/822612851781156864
